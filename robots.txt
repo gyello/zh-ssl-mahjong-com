@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gyello.github.io/zh-ssl-mahjong-com/sitemap.xml
